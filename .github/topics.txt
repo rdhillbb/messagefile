@@ -1,0 +1,10 @@
+xml-parser
+message-parser
+golang
+xml
+message-template
+template-engine
+configuration
+message-formatting
+go-library
+utilities
