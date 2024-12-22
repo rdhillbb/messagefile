@@ -5,7 +5,7 @@ A simple Go package for parsing structured XML message files and retrieving mess
 ## Installation
 
 ```bash
-go get github.com/yourusername/messagefile
+go get github.com/rdhillbb/messagefile
 ```
 
 ## Usage
